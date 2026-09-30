@@ -1,12 +1,31 @@
-## Hi there 👋
+Hi BCC GitHub Community 👋
+
+# BCC GitHub Organization Guidance
+How to use github for BCC?
+
+
+## Organization and Teams
+
+BCC uses a central GitHub organization.  
+Each department can have its own team and manages that team independently.
+
+## Repository Access
+
+Use private repositories by default and grant access to your team members.
 
 <!--
+## Pricing and Billing
 
-**Here are some ideas to get you started:**
+- GitHub Enterprise ~15€ / month / user
+- GitHub Copilot ~15€ / month / user
+  - Token Consumption billed separately
+- GitHub Action compute usage billed separately
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+## Support and Requests
+
+Questions or requests regarding GitHub should be directed to Z-IT:
+
+- Michael Bolte
+- Martin Schreckenberg
+- z-it-sourcing@bertelsmann.de
