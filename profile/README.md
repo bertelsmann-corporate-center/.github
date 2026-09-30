@@ -4,17 +4,20 @@ Hi BCC GitHub Community 👋
 How to use github for BCC?
 
 
-## Organization and Teams
+## 🏢 Organization and Teams
 
 BCC uses a central GitHub organization.  
 Each department can have its own team and manages that team independently.
 
-## Repository Access
+### 🥸 User Display Names
+We recomment to put a display name on your profile. The display name will be shown additionally to the account name, which helps to identify people.
+
+##🔑 Repository Access
 
 Use private repositories by default and grant access to your team members.
 
 <!--
-## Pricing and Billing
+## 💶 Pricing and Billing
 
 - GitHub Enterprise ~15€ / month / user
 - GitHub Copilot ~15€ / month / user
@@ -22,7 +25,7 @@ Use private repositories by default and grant access to your team members.
 - GitHub Action compute usage billed separately
 
 -->
-## Support and Requests
+## ❓Support and Requests
 
 Questions or requests regarding GitHub should be directed to Z-IT:
 
