@@ -12,7 +12,7 @@ Each department can have its own team and manages that team independently.
 ### 🥸 User Display Names
 We recomment to put a display name on your profile. The display name will be shown additionally to the account name, which helps to identify people.
 
-##🔑 Repository Access
+## 🔑 Repository Access
 
 Use private repositories by default and grant access to your team members.
 
