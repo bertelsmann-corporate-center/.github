@@ -31,4 +31,4 @@ Questions or requests regarding GitHub should be directed to Z-IT:
 
 - Michael Bolte
 - Martin Schreckenberg
-- z-it-sourcing@bertelsmann.de
+- Z-IT Sourcing
